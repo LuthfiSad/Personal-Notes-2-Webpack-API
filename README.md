@@ -7,10 +7,10 @@ npm install
 
 Untuk Memulai:
 ```bash
-untuk start
+npm run start-dev
 ```
 
 Untuk Build:
 ```bash
-`npm run start-dev`
+npm run build
 ```
