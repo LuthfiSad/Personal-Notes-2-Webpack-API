@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: "Montserrat", sans-serif;
+}
+.head_bar {
+  font-family: "Pacifico", cursive;
+  padding: 10px 80px;
+  background-color: black;
+  color: white;
+  position: sticky;
+  top: 0;
+}
+.input-note h1 {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
